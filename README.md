@@ -38,7 +38,12 @@ Please obfuscate all javascript files before use
    Download "Back-end.zip" and Unzip
    deplot it to a JAVA 21
    Please change the KEY & API in _config.json
-   
+
+## Demonstration
+![image](https://github.com/user-attachments/assets/93382916-7b27-40fd-a061-da95a9615249)
+![image](https://github.com/user-attachments/assets/19914b53-7974-4d9d-82a4-c110b9d6cb33)
+
+
 
 ## 🛡️ Disclaimer
 
