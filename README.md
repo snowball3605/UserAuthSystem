@@ -28,12 +28,16 @@ An elegant, responsive, and feature-rich account management system built with HT
 
 Please obfuscate all javascript files before use
 
-1. **File Structure**:
+1. **Front-End**:
    Download "front-end.zip" and Unzip
    deploy it to a proxy, such as nginx
-
-2. **config.json**
    Please change the api in config.json to the correct backend link
+
+2. **Back-end**
+   Download "Back-end.zpi" and Unzip
+   deplot it to a JAVA 21
+   Please change the KEY & API in _config.json
+   
 
 ## 🛡️ Disclaimer
 
