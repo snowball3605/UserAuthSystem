@@ -34,7 +34,7 @@ Please obfuscate all javascript files before use
    Please change the api in config.json to the correct backend link
 
 2. **Back-end**
-   Download "Back-end.zpi" and Unzip
+   Download "Back-end.zip" and Unzip
    deplot it to a JAVA 21
    Please change the KEY & API in _config.json
    
