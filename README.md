@@ -20,6 +20,7 @@ An elegant, responsive, and feature-rich account management system built with HT
 - **Smooth Interactions**:
   - Tab-based navigation between forms
   - Loading indicators during API operations
+  - using i18n
   - Clear success/error feedback
 
 ## 📋 Usage Instructions
